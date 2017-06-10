@@ -26,6 +26,10 @@ body{
   border-radius: 5px 5px 0 0;
 }
 
+.page-center{
+  margin-bottom: 20px;
+}
+
 .page-center h2{
   font-size: 20px;
 }
@@ -55,4 +59,18 @@ body{
 
 .news-events h2{
   color: #032d6b;
+}
+
+.clients-left{
+  background-color: #032d6b;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+.clients-right{
+  background: linear-gradient(to bottom,rgb(36, 37, 37),rgb(43, 45, 41));
+  color: white;
+  padding: 5px;
+  text-align: center;
 }
