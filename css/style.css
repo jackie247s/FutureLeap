@@ -1,0 +1,17 @@
+body{
+  background-color: #E0E0E0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.page{
+  background-color: white;
+  margin: 0 15%;
+}
+
+.top-right{
+  padding-top: 30px;
+}
+
+.top-right a{
+  margin-right: 10px;
+}
