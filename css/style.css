@@ -5,6 +5,10 @@ body{
   font-family: 'Fjalla One', sans-serif;
 }
 
+h2{
+  color: #032d6b;
+}
+
 .page{
   background-color: white;
   margin: 0 15%;

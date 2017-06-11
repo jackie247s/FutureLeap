@@ -34,9 +34,8 @@
            <a class="dropdown-toggle" data-toggle="dropdown" href="#">CREDENTIAL
            <span class="caret"></span></a>
            <ul class="dropdown-menu">
-             <li><a href="#">Page 1-1</a></li>
-             <li><a href="#">Page 1-2</a></li>
-             <li><a href="#">Page 1-3</a></li>
+             <li><a href="#">EHS Policy</a></li>
+             <li><a href="quality-policy.php">Quality Policy</a></li>
            </ul>
          </li>
 
