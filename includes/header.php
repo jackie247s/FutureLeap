@@ -24,7 +24,7 @@
              <span class="caret"></span></a>
            <ul class="dropdown-menu">
              <li><a href="#">Chairman &amp; CEO's Message</a></li>
-             <li><a href="#">Mission &amp; Vision</a></li>
+             <li><a href="mission-vision.php">Mission &amp; Vision</a></li>
              <li><a href="#">Organization Chart</a></li>
              <li><a href="#">Company Profile</a></li>
            </ul>
