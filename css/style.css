@@ -21,6 +21,11 @@ body{
   margin-bottom: 20px;
 }
 
+#logo{
+  height: 120px;
+  width: 170px;
+}
+
 .navbar-inverse{
   background-color: #0F1626;
   border-radius: 5px 5px 0 0;
