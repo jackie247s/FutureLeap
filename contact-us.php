@@ -15,6 +15,11 @@
        ?>
 
        <div class="contact-us">
+
+         <div class="col-md-12">
+           <img id="contact-us" src="images/contact.jpg" alt="">
+         </div>
+
          <div class="col-md-6 col-sm-12 col-xs-12">
 
            <h2>Contact Us</h2>
