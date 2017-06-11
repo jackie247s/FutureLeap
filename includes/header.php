@@ -1,13 +1,13 @@
 <header>
   <div class="row header-top">
     <div class="col-md-4 logo">
-      <a href="index.html"><img id="logo" src="images/logo.jpg" alt="Logo"></a>
+      <a href="index.php"><img id="logo" src="images/logo.jpg" alt="Logo"></a>
     </div>
     <div class="col-md-4">
 
     </div>
     <div class="col-md-4 top-right">
-      <a href="#">Home</a>
+      <a href="index.php">Home</a>
       <a href="#">Contact Us</a>
       <a href="#">Downloads</a>
     </div>
