@@ -8,7 +8,7 @@
     </div>
     <div class="col-md-4 top-right">
       <a href="index.php">Home</a>
-      <a href="#">Contact Us</a>
+      <a href="contact-us.php">Contact Us</a>
       <a href="#">Downloads</a>
     </div>
   </div>
@@ -60,7 +60,7 @@
 
          <li><a href="#">NEWS &amp; EVENTS</a></li>
          <li><a href="#">CAREER</a></li>
-         <li><a href="#">ENQUIRY</a></li>
+         <li><a href="contact-us.php">ENQUIRY</a></li>
        </ul>
      </div>
     </nav>
