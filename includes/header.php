@@ -43,9 +43,11 @@
            <a class="dropdown-toggle" data-toggle="dropdown" href="#">DIVISIONS
            <span class="caret"></span></a>
            <ul class="dropdown-menu">
-             <li><a href="#">Page 1-1</a></li>
-             <li><a href="#">Page 1-2</a></li>
-             <li><a href="#">Page 1-3</a></li>
+             <li><a href="construction.php">Construction</a></li>
+             <li><a href="mep.php">MEP</a></li>
+             <li><a href="firefighting.php">Firefighting</a></li>
+             <li><a href="infrastructure.php">Infrastructure</a></li>
+             <li><a href="facility.php">Facility Management</a></li>
            </ul>
          </li>
 
