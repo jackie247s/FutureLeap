@@ -25,7 +25,12 @@
            </ul>
          </div>
 
-         <div class="col-md-12 col-lg-12">
+         <div class="col-md-8 col-lg-8">
+           <h2>Construction</h2>
+           <p>With regards to civil services, we are well experienced with constructing complex and retaining walls or structures. In addition, we also offer remedial services for damaged structures which need a rebuild, be it partial or full. Our capability to fully survey and lead our team of experts means that we can take on the most technically demanding projects with confidence.</p>
+         </div>
+         <div class="col-md-8 col-lg-8">
+
           <h2>Scope of Work</h2>
           <ul>
             <li>Demolition of existing foundations</li>
