@@ -26,18 +26,19 @@
          </div>
 
          <div class="col-md-12 col-lg-12">
-           <h2>Scope of Work</h2>
-           <p>•	Demolition of existing foundations
-              •	Retrofitting existing foundations to fit new equipment
-              •	Reinforcing older building foundations
-              •	Excavation and compaction
-              •	Underground utilities
-              •	Engineered form systems
-              •	Rebar installation
-              •	Complex reinforced cast-in-place foundations
-              •	Precision anchor bolt and embed placement
-              •	Reinforced slab-on-grade placement and finish
-          </p>
+          <h2>Scope of Work</h2>
+          <ul>
+            <li>Demolition of existing foundations</li>
+            <li>Retrofitting existing foundations to fit new equipment</li>
+            <li>Reinforcing older building foundations</li>
+            <li>Excavation and compaction</li>
+            <li>Underground utilities</li>
+            <li>Engineered form systems</li>
+            <li>Rebar installation</li>
+            <li>Complex reinforced cast-in-place foundations</li>
+            <li>Precision anchor bolt and embed placement</li>
+            <li>Reinforced slab-on-grade placement and finish</li>
+          </ul>
          </div>
        </div>
     </div>
