@@ -23,7 +23,7 @@
            <a class="dropdown-toggle" data-toggle="dropdown" href="#">ABOUT US
              <span class="caret"></span></a>
            <ul class="dropdown-menu">
-             <li><a href="#">Chairman &amp; CEO's Message</a></li>
+             <li><a href="chairman-message.php">Chairman &amp; CEO's Message</a></li>
              <li><a href="mission-vision.php">Mission &amp; Vision</a></li>
              <li><a href="#">Organization Chart</a></li>
              <li><a href="company-profile.php">Company Profile</a></li>
