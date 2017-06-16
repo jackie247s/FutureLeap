@@ -107,7 +107,15 @@ h2{
   margin: 0;
 }
 
+.clearfix{
+  clear: both;
+}
+
 footer{
-  margin-top: 20px;
+  padding: 20px 0;
   text-align: center;
+}
+
+footer hr{
+  color: black;
 }

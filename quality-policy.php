@@ -34,6 +34,14 @@
            <p>Future Leap’s methods of Quality Assurance are very systematic in ensuring that a deliverable is not only acceptable in terms of international standards but resonates perfection of our services. Our Quality Assurance process is surely a reflection our overall project performance which mandates that the deliverables are tested thoroughly and are able to satisfy our clients’ demands among the highest attainable standards.</p>
          </div>
        </div>
+
+       <div class="clearfix">
+
+       </div>
+
+       <?php
+        require_once 'includes/footer.php';
+        ?>
     </div>
 
     <?php

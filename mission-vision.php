@@ -25,6 +25,13 @@
            <p>Our vision is to become the most reliable name in the construction and electromechanical services industry throughout the GCC region. We aim to achieve this by continuing to provide high quality services and develop innovate and cost-effective solutions for the most demanding of projects which mandate the use of latest technology infrastructure.</p>
          </div>
        </div>
+
+       <div class="clearfix">
+
+       </div>
+       <?php
+        require_once 'includes/footer.php';
+        ?>
     </div>
 
     <?php
