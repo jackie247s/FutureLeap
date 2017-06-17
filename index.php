@@ -28,7 +28,7 @@
         <div class="col-md-8 col-sm-12 col-xs-12">
           <div class="welcome col-md-12 col-sm-12 col-xs-12">
             <h2>Welcome to the FutureLeap Group</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>We at Future Leap believe in soaring above whatever challenges we face. We believe in consistent learning - coming up with sound strategies and executing them to persevere in what we do best. Our immediate objective is to establish a broad and firm foundation of clientele and provide high-caliber solutions for our clients. We are a team of specialists who provide innovative and cost-effective solutions by using cutting-edge technology. In a nutshell, affordability, timely delivery and nothing less than excellence describes what Future Leap stands for. </p>
           </div>
 
           <div class="col-md-6 col-sm-12 col-xs-12 panel">
@@ -36,7 +36,7 @@
               <h2>VISION &amp; MISSION</h2>
             </div>
             <div class="panel-body">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Our mission is to provide general contracting services to our clients and in the process, distinguish us from others based on the needed time, budget and quality, in order surpass customer expectations. We value the importance of building relationships on trust and empowerment and remain true to our word and the excellence we promise. We also aim at achieving the best quality, while at the same time, respecting health and environmental standards.</p>
             </div>
           </div>
 
@@ -45,7 +45,7 @@
               <h2>MEDIA CENTER</h2>
             </div>
             <div class="panel-body">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>At Future Leap, we use Enterprise resource planning (ERP) for managing our organization business and back office functions related to technology, services and human resources. It includes the Accounting, Job costing, Fixed Assets, Inventory / Procurement Management, as well as Payroll and Personal Systems. ERP System help us profitably grow our business and improve competitiveness.</p>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@
           </div>
 
           <div class="clients-right col-md-10">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+            <p>Dubai | Karachi | Abu Dhabi</p>
           </div>
         </div>
       </div>
