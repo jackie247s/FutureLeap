@@ -14,8 +14,9 @@
         require_once 'includes/header.php';
        ?>
 
+       <img id="aboutus" src="images/about.jpg" alt="">
        <div class="mission-vision">
-         <img id="aboutus" src="images/about.jpg" alt="">
+
          <br>
          <div class="mission col-md-4">
            <img src="images/mission.jpg" class="img-thumbnail" alt="">
@@ -28,7 +29,7 @@
          <div class="clearfix">
 
          </div>
-         
+
          <div class="vision col-md-4">
            <img src="images/vision.jpg" class="img-thumbnail" alt="">
          </div>
