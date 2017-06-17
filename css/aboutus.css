@@ -4,6 +4,19 @@
   font-size: 20px;
 }
 
+.mission-vision img{
+  height: 150px;
+  width: 300px;
+}
+
+.mission{
+  margin: 20px 0;
+}
+
+.vision{
+  margin: 20px 0;
+}
+
 #aboutus{
   width: 100%;
 }

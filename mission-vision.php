@@ -15,11 +15,23 @@
        ?>
 
        <div class="mission-vision">
+         <img id="aboutus" src="images/about.jpg" alt="">
+         <br>
+         <div class="mission col-md-4">
+           <img src="images/mission.jpg" class="img-thumbnail" alt="">
+         </div>
          <div class="mission col-md-8">
            <h2>Mission</h2>
            <p>Our mission is to provide general contracting services to our clients and in the process, distinguish us from others based on the needed time, budget and quality, in order surpass customer expectations. We value the importance of building relationships on trust and empowerment and remain true to our word and the excellence we promise. We also aim at achieving the best quality, while at the same time, respecting health and environmental standards.</p>
          </div>
 
+         <div class="clearfix">
+
+         </div>
+         
+         <div class="vision col-md-4">
+           <img src="images/vision.jpg" class="img-thumbnail" alt="">
+         </div>
          <div class="vision col-md-8">
            <h2>Vision</h2>
            <p>Our vision is to become the most reliable name in the construction and electromechanical services industry throughout the GCC region. We aim to achieve this by continuing to provide high quality services and develop innovate and cost-effective solutions for the most demanding of projects which mandate the use of latest technology infrastructure.</p>

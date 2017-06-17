@@ -15,7 +15,8 @@
        ?>
 
        <div class="chairman-message">
-
+         <img id="aboutus" src="images/about.jpg" alt="">
+         <br>
          <div class="col-md-8 col-lg-8">
            <h2>Chairman &amp; CEO's Message</h2>
            <p>Future Leap aspires to rank among leading businesses that deal in civil, electrical and mechanical, contractor-ship based, small and large-scale projects. Every day, we make our company more and more resilient in the face of newer and tougher challenges. Our persistence to create a better tomorrow drives us to go to extreme lengths in order to produce efficient and unique solutions.
