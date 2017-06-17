@@ -19,9 +19,9 @@
 
          <div class="slider">
            <ul class="bxslider">
-             <li><img src="images/slider1.jpg" /></li>
-             <li><img src="images/slider2.jpg" /></li>
-             <li><img src="images/slider3.jpg" /></li>
+             <li><img src="images/Facility/facility1.jpg" /></li>
+             <li><img src="images/Facility/facility2.jpg" /></li>
+             
            </ul>
          </div>
 
