@@ -27,6 +27,7 @@
              <li><a href="mission-vision.php">Mission &amp; Vision</a></li>
              <li><a href="organizational-chart.php">Organization Chart</a></li>
              <li><a href="company-profile.php">Company Profile</a></li>
+             <li><a href="csr.php">CSR</a></li>
            </ul>
          </li>
 
