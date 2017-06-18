@@ -55,7 +55,7 @@
         </div>
       </div>
 
-      <div class="our-clients row">
+      <!-- <div class="our-clients row">
         <div class="container-fluid">
           <div class="clients-left col-md-2">
             <p>OUR CLIENTS</p>
@@ -65,7 +65,7 @@
             <p>Dubai | Karachi | Abu Dhabi</p>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- <div class="projects">
         <div class="project-header">
