@@ -67,12 +67,12 @@
         </div>
       </div>
 
-      <div class="projects">
+      <!-- <div class="projects">
         <div class="project-header">
           <h2>LATEST PROJECTS</h2>
         </div>
 
-      </div>
+      </div> -->
 
       <?php
         require_once 'includes/footer.php';
