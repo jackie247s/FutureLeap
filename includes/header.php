@@ -25,7 +25,7 @@
            <ul class="dropdown-menu">
              <li><a href="chairman-message.php">Chairman &amp; CEO's Message</a></li>
              <li><a href="mission-vision.php">Mission &amp; Vision</a></li>
-             <li><a href="#">Organization Chart</a></li>
+             <li><a href="organizational-chart.php">Organization Chart</a></li>
              <li><a href="company-profile.php">Company Profile</a></li>
            </ul>
          </li>
@@ -34,7 +34,7 @@
            <a class="dropdown-toggle" data-toggle="dropdown" href="#">CREDENTIAL
            <span class="caret"></span></a>
            <ul class="dropdown-menu">
-             <li><a href="#">EHS Policy</a></li>
+             <li><a href="ehs-policy.php">EHS Policy</a></li>
              <li><a href="quality-policy.php">Quality Policy</a></li>
            </ul>
          </li>
