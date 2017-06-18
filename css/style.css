@@ -43,7 +43,7 @@ h3{
 }
 
 #logo{
-  height: 120px;
+  height: 150px;
   width: 150px;
 }
 
@@ -88,7 +88,7 @@ h3{
 }
 
 .our-clients{
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .clients-left{
@@ -122,10 +122,24 @@ h3{
 }
 
 footer{
-  padding: 10px 0;
-  text-align: center;
+  padding: 0;
 }
 
 footer hr{
   border-color: #0F1626;
+  margin: 10px 0;
+}
+
+footer p{
+  margin: 0;
+}
+
+footer a{
+  margin-right: 20px;
+}
+
+#footer-logo{
+  height: 60px;
+  margin: 0;
+  width: 60px;
 }

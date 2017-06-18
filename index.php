@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <title>FutureLeap</title>
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+    <?php
+      require_once 'includes/head-links.php';
+     ?>
     <link rel="stylesheet" href="css/jquery.bxslider.min.css">
   </head>
   <body>
@@ -80,8 +80,9 @@
 
     </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
+    <?php
+      require_once 'includes/scripts.php';
+     ?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.min.js"></script>
     <script type="text/javascript">
     $(document).ready(function(){
