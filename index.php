@@ -15,13 +15,13 @@
         require_once 'includes/header.php';
        ?>
 
-      <div class="slider">
-        <ul class="bxslider">
-          <li><img src="images/slider1.jpg" /></li>
-          <li><img src="images/slider2.jpg" /></li>
-          <li><img src="images/slider3.jpg" /></li>
-        </ul>
-      </div>
+       <div class="slider">
+         <ul class="bxslider">
+           <li><img src="images/slider1.jpg" /></li>
+           <li><img src="images/slider2.jpg" /></li>
+           <li><img src="images/slider3.jpg" /></li>
+         </ul>
+       </div>
 
       <div class="page-center row">
 
