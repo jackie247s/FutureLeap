@@ -15,7 +15,7 @@
         require_once 'includes/header.php';
        ?>
 
-      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
+      <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 col-lg-offset-2 col-lg-8">
         <div class="slider">
           <ul class="bxslider">
             <li><img src="images/slider1new.jpg" /></li>

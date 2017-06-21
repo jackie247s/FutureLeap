@@ -17,12 +17,14 @@
 
        <div class="infrastructure">
 
-         <div class="slider">
-           <ul class="bxslider">
-             <li><img src="images/Infrastructure/infrastructure1.jpg" /></li>
-             <li><img src="images/Infrastructure/infrastructure2.jpg" /></li>
-             <li><img src="images/Infrastructure/infrastructure3.jpg" /></li>
-           </ul>
+         <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 col-lg-offset-2 col-lg-8">
+           <div class="slider">
+             <ul class="bxslider">
+               <li><img src="images/Infrastructure/infrastructure1new.jpg" /></li>
+               <li><img src="images/Infrastructure/infrastructure2new.jpg" /></li>
+               <li><img src="images/Infrastructure/infrastructure3new.jpg" /></li>
+             </ul>
+           </div>
          </div>
 
          <div class="col-md-8 col-lg-8">
