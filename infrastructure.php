@@ -80,18 +80,18 @@
            <h2>Irrigation Network</h2>
            <p>Proper installation and maintenance of irrigation systems is necessary to ensure efficient use of water. To develop a good irrigation network we offer:</p>
            <ul>
-             <li>•	Efficient Construction &amp; Design of Irrigation System.</li>
-             <li>•	Installing Irrigation Pumping Station</li>
-             <li>•	Installing high quality Materials and Equipment.</li>
-             <li>•	Professional Irrigation Systems installation according to the client’s design and specification.</li>
-             <li>•	Continuous management for irrigation nets systems</li>
-             <li>•	Irrigation Pumping </li>
-             <li>•	Hydro-pneumatic System</li>
-             <li>•	Water Wells &amp; Reservoirs</li>
-             <li>•	Construction of Sewer, Storm Water Manholes and associated Pipe Laying</li>
-             <li>•	Testing via GRP pipes</li>
-             <li>•	Construction &amp; Testing of DEWA Water Lines &amp; Irrigation Mains (Chambers) </li>
-             <li>•	Fire-fighting Pipeline Networks</li>
+             <li>Efficient Construction &amp; Design of Irrigation System.</li>
+             <li>Installing Irrigation Pumping Station</li>
+             <li>Installing high quality Materials and Equipment.</li>
+             <li>Professional Irrigation Systems installation according to the client’s design and specification.</li>
+             <li>Continuous management for irrigation nets systems</li>
+             <li>Irrigation Pumping </li>
+             <li>Hydro-pneumatic System</li>
+             <li>Water Wells &amp; Reservoirs</li>
+             <li>Construction of Sewer, Storm Water Manholes and associated Pipe Laying</li>
+             <li>Testing via GRP pipes</li>
+             <li>Construction &amp; Testing of DEWA Water Lines &amp; Irrigation Mains (Chambers) </li>
+             <li>Fire-fighting Pipeline Networks</li>
            </ul>
          </div>
 
