@@ -1,10 +1,10 @@
 <header>
   <div class="row header-top">
-    <div class="col-md-4 ">
-
-    </div>
     <div class="col-md-4 logo">
       <a href="index.php"><img id="logo" src="images/logo.jpg" alt="Logo"></a>
+    </div>
+    <div class="col-md-4 ">
+
     </div>
     <div class="col-md-4 top-right">
       <a href="index.php">Home</a>
