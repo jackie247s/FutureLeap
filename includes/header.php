@@ -31,14 +31,14 @@
            </ul>
          </li>
 
-         <li class="dropdown">
+         <!-- <li class="dropdown">
            <a class="dropdown-toggle" data-toggle="dropdown" href="#">CREDENTIAL
            <span class="caret"></span></a>
            <ul class="dropdown-menu">
              <li><a href="ehs-policy.php">EHS Policy</a></li>
              <li><a href="quality-policy.php">Quality Policy</a></li>
            </ul>
-         </li>
+         </li> -->
 
          <li class="dropdown">
            <a class="dropdown-toggle" data-toggle="dropdown" href="#">DIVISIONS
@@ -52,16 +52,6 @@
            </ul>
          </li>
 
-         <li class="dropdown">
-           <a class="dropdown-toggle" data-toggle="dropdown" href="#">PROJECTS
-           <span class="caret"></span></a>
-           <ul class="dropdown-menu">
-             <li><a href="#">Projects Ongoing</a></li>
-             <li><a href="#">Projects Completed</a></li>
-           </ul>
-         </li>
-
-         <li><a href="#">NEWS &amp; EVENTS</a></li>
          <li><a href="#">CAREER</a></li>
          <li><a href="contact-us.php">ENQUIRY</a></li>
        </ul>
