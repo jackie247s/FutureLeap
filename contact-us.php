@@ -26,44 +26,9 @@
            <br>
            <form class="form-horizontal">
              <div class="form-group">
-               <label class="control-label col-sm-3" for="email">Your Name:</label>
+               <label class="control-label col-sm-3" for="email">Name:</label>
                <div class="col-sm-9">
                  <input type="text" class="form-control">
-               </div>
-             </div>
-
-             <div class="form-group">
-               <label class="control-label col-sm-3" for="pwd">Company:</label>
-               <div class="col-sm-9">
-                 <input type="text" class="form-control" >
-               </div>
-             </div>
-
-             <div class="form-group">
-               <label class="control-label col-sm-3" for="pwd">Designation:</label>
-               <div class="col-sm-9">
-                 <input type="text" class="form-control" >
-               </div>
-             </div>
-
-             <div class="form-group">
-               <label class="control-label col-sm-3" for="pwd">Address:</label>
-               <div class="col-sm-9">
-                 <input type="text" class="form-control" >
-               </div>
-             </div>
-
-             <div class="form-group">
-               <label class="control-label col-sm-3" for="pwd">Country:</label>
-               <div class="col-sm-9">
-                 <input type="text" class="form-control" >
-               </div>
-             </div>
-
-             <div class="form-group">
-               <label class="control-label col-sm-3" for="pwd">Phone:</label>
-               <div class="col-sm-9">
-                 <input type="text" class="form-control" >
                </div>
              </div>
 
@@ -75,14 +40,21 @@
              </div>
 
              <div class="form-group">
-               <label class="control-label col-sm-3" for="pwd">Message:</label>
+               <label class="control-label col-sm-3" for="pwd">Phone:</label>
                <div class="col-sm-9">
                  <input type="text" class="form-control" >
                </div>
              </div>
 
              <div class="form-group">
-               <div class="col-sm-offset-3 col-sm-9">
+               <label class="control-label col-sm-3" for="pwd">Message:</label>
+               <div class="col-sm-9">
+                 <textarea class="form-control" rows="5" id="message"></textarea>
+               </div>
+             </div>
+
+             <div class="form-group">
+               <div class="col-sm-offset-6 col-sm-6 col-xs-offset-5 col-xs-7">
                  <button type="submit" class="btn btn-default">Submit</button>
                </div>
              </div>
