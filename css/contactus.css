@@ -1,3 +1,15 @@
 #contact-us{
   width: 100%;
 }
+
+.enquiry-right{
+  box-sizing: border-box;
+  margin-top: 40px;
+  padding: 30px;
+}
+
+#googleMap{
+  height: 285px;
+  margin-bottom: 20px;
+  width: 100%;
+}

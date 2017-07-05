@@ -62,8 +62,11 @@
 
          </div>
 
-         <div class="col-md-6 col-sm-12 col-xs-12">
+         <div class="col-md-6 col-sm-12 col-xs-12 enquiry-right">
+           <div class="" id="googleMap">
 
+           </div>
+           <p>601-56, Acico Business Park building, Behind Nissan Showroom, Deira City Center, Dubai</p>
          </div>
 
        </div>
@@ -80,5 +83,16 @@
     <?php
       require_once 'includes/scripts.php';
      ?>
+     <script type="text/javascript">
+       function myMap(){
+        var mapProp= {
+        center:new google.maps.LatLng(25.2519659,55.3328027),
+        zoom:16,
+        };
+
+        var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+       }
+     </script>
+     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5hpLymL6YSJ3vdXpqlLFAnTvRvxsN4cc&callback=myMap" charset="utf-8"></script>
   </body>
 </html>
