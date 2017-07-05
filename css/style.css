@@ -148,3 +148,17 @@ footer a{
   margin: 0;
   width: 60px;
 }
+
+.bottom-left{
+  /*border: solid black 1px;*/
+}
+
+.bottom-right{
+  /*border: solid black 1px;*/
+  padding: 20px 0 20px 20px;
+}
+
+.bottom-right a{
+  font-size: 16px;
+  font-weight: bold;
+}
