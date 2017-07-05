@@ -27,13 +27,14 @@
 
       <div class="page-center row">
 
-        <div class="col-md-8 col-sm-12 col-xs-12">
-          <div class="welcome col-md-12 col-sm-12 col-xs-12">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="welcome col-md-8 col-sm-12 col-xs-12">
             <h2>Welcome to the FutureLeap Group</h2>
             <p>We at Future Leap believe in soaring above whatever challenges we face. We believe in consistent learning - coming up with sound strategies and executing them to persevere in what we do best. Our immediate objective is to establish a broad and firm foundation of clientele and provide high-caliber solutions for our clients. We are a team of specialists who provide innovative and cost-effective solutions by using cutting-edge technology. In a nutshell, affordability, timely delivery and nothing less than excellence describes what Future Leap stands for. </p>
+            <p>As far as our long-term vision is concerned, Future Leap envisions itself as the professional flagbearer of civil and electro-mechanical services. Having a systematic plan of action and a strongly glued team, Future Leap aspires to expand its operations both horizontally and vertically, diversifying its services by clicking into other regional and international markets. We make sure that our ambitions cascade throughout our dedicated management team and that everyone in the company stays on the same page, keeping their goals aligned with those of the company.</p>
           </div>
 
-          <div class="col-md-6 col-sm-12 col-xs-12 panel">
+          <div class="col-md-4 col-sm-12 col-xs-12 panel">
             <div class="panel-header">
               <h2>VISION &amp; MISSION</h2>
             </div>
@@ -42,39 +43,9 @@
             </div>
           </div>
 
-          <div class="col-md-6 col-sm-12 col-xs-12 panel">
-            <div class="panel-header">
-              <h2>MEDIA CENTER</h2>
-            </div>
-            <div class="panel-body">
-              <p>At Future Leap, we use Enterprise resource planning (ERP) for managing our organization business and back office functions related to technology, services and human resources. It includes the Accounting, Job costing, Fixed Assets, Inventory / Procurement Management, as well as Payroll and Personal Systems. ERP System help us profitably grow our business and improve competitiveness.</p>
-            </div>
-          </div>
         </div>
 
-        <div class="col-md-4 col-sm-12 col-xs-12 news-events">
-          <h2>NEWS &amp; EVENTS</h2>
-        </div>
       </div>
-
-      <!-- <div class="our-clients row">
-        <div class="container-fluid">
-          <div class="clients-left col-md-2">
-            <p>OUR CLIENTS</p>
-          </div>
-
-          <div class="clients-right col-md-10">
-            <p>Dubai | Karachi | Abu Dhabi</p>
-          </div>
-        </div>
-      </div> -->
-
-      <!-- <div class="projects">
-        <div class="project-header">
-          <h2>LATEST PROJECTS</h2>
-        </div>
-
-      </div> -->
 
       <?php
         require_once 'includes/footer.php';

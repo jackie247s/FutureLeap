@@ -7,9 +7,8 @@
 
     </div>
     <div class="col-md-4 top-right">
-      <a href="index.php">Home</a>
-      <a href="contact-us.php">Contact Us</a>
-      <a href="#">Downloads</a>
+      <h2>Location of Main Office</h2>
+      <p>601-56, Acico Business Park building, Behind Nissan Showroom, Deira City Center, Dubai</p>
     </div>
   </div>
 
