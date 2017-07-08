@@ -83,6 +83,8 @@
     <?php
       require_once 'includes/scripts.php';
      ?>
+
+     <!-- Google Maps Script -->
      <script type="text/javascript">
        function myMap(){
         var mapProp= {
@@ -94,5 +96,10 @@
        }
      </script>
      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5hpLymL6YSJ3vdXpqlLFAnTvRvxsN4cc&callback=myMap" charset="utf-8"></script>
+
+     <!-- Form Handling Script -->
+     <script type="text/javascript">
+
+     </script>
   </body>
 </html>
