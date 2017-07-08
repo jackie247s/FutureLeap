@@ -1,3 +1,12 @@
+#form-success{
+  background-color: #dff0d8;
+  border-radius: 5px;
+  display: none;
+  padding: 3px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 #contact-us{
   width: 100%;
 }

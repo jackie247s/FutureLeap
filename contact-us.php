@@ -24,32 +24,35 @@
 
            <h2>Contact Us</h2>
            <br>
-           <form class="form-horizontal">
+           <div id="form-success">
+             <p>Your message has been successfully sent. Please wait for our response.</p>
+           </div>
+           <form id="contact-form" class="form-horizontal">
              <div class="form-group">
                <label class="control-label col-sm-3" for="email">Name:</label>
                <div class="col-sm-9">
-                 <input type="text" class="form-control">
+                 <input id="name" type="text" class="form-control" required>
                </div>
              </div>
 
              <div class="form-group">
                <label class="control-label col-sm-3" for="pwd">Email:</label>
                <div class="col-sm-9">
-                 <input type="email" class="form-control" >
+                 <input id="email" type="email" class="form-control" required>
                </div>
              </div>
 
              <div class="form-group">
                <label class="control-label col-sm-3" for="pwd">Phone:</label>
                <div class="col-sm-9">
-                 <input type="text" class="form-control" >
+                 <input id="phone" type="text" class="form-control" required>
                </div>
              </div>
 
              <div class="form-group">
                <label class="control-label col-sm-3" for="pwd">Message:</label>
                <div class="col-sm-9">
-                 <textarea class="form-control" rows="5" id="message"></textarea>
+                 <textarea class="form-control" rows="5" id="message" required></textarea>
                </div>
              </div>
 
@@ -98,8 +101,21 @@
      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5hpLymL6YSJ3vdXpqlLFAnTvRvxsN4cc&callback=myMap" charset="utf-8"></script>
 
      <!-- Form Handling Script -->
+     <script src="js/contactFormHandler.js" charset="utf-8"></script>
      <script type="text/javascript">
+      $("#contact-form").submit(function(e){
+        e.preventDefault();
 
+        var formData = collectFormData();
+        clearForm();
+        sendFormData(formData);
+
+        $("#form-success").show(500);
+        setTimeout(function(){
+          $("#form-success").hide(500);
+        },7000);
+
+      });
      </script>
   </body>
 </html>
