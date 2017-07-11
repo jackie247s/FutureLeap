@@ -100,22 +100,17 @@
      </script>
      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5hpLymL6YSJ3vdXpqlLFAnTvRvxsN4cc&callback=myMap" charset="utf-8"></script>
 
-     <!-- Form Handling Script -->
+     <!-- Load contactFormHandler Script -->
      <script src="js/contactFormHandler.js" charset="utf-8"></script>
+
+     <!-- Perform form handling -->
      <script type="text/javascript">
-      $("#contact-form").submit(function(e){
-        e.preventDefault();
+      $(document).ready(function(){
 
-        var formData = collectFormData();
-        clearForm();
-        sendFormData(formData);
-
-        $("#form-success").show(500);
-        setTimeout(function(){
-          $("#form-success").hide(500);
-        },7000);
+        contactFormHandler.init();
 
       });
      </script>
+
   </body>
 </html>
