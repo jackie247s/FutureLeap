@@ -3,8 +3,8 @@
     <div class="col-md-4 logo">
       <a href="index.php"><img id="logo" src="images/logo.jpg" alt="Logo"></a>
     </div>
-    <div class="col-md-4 ">
-
+    <div class="col-md-4 slogan">
+      <p>Building Your Future</p>
     </div>
     <div class="col-md-4 top-right">
       <h2>Location of Main Office</h2>

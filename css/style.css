@@ -30,8 +30,22 @@ p,li{
   padding: 20px 10px;
 }
 
-.top-right{
+.slogan{
+  text-align: center;
   padding-top: 50px;
+}
+
+.slogan p{
+  /*border: solid #032d6b 5px;*/
+  background-color: #032d6b;
+  color: white;
+  display: inline-block;
+  font-size: 25px;
+  padding: 5px 20px;
+}
+
+.top-right{
+  padding-top: 40px;
   text-align: center;
 }
 
@@ -91,36 +105,6 @@ p,li{
 
 .news-events h2{
   color: #032d6b;
-}
-
-.our-clients{
-  margin-bottom: 30px;
-}
-
-.clients-left{
-  background-color: #032d6b;
-  color: white;
-  padding: 5px;
-  text-align: center;
-}
-
-.clients-right{
-  background: linear-gradient(to bottom,rgb(36, 37, 37),rgb(43, 45, 41));
-  color: white;
-  padding: 5px;
-  text-align: center;
-}
-
-.project-header{
-  background-color: #032d6b;
-  border-radius: 5px 5px 0 0;
-  padding: 5px;
-}
-
-.project-header h2{
-  color: white;
-  font-size: 20px;
-  margin: 0;
 }
 
 .clearfix{
