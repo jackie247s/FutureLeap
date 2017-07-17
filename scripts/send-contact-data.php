@@ -8,7 +8,7 @@
 
   // Settings for sending email
   $mailToArray = array("jackie247s@gmail.com");
-  $subject = "FutureLeap Contact";
+  $subject = "FutureLeap Enquiry";
   $arrayLength = count($mailToArray);
 
   // Construct Mail Message
