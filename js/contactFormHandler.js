@@ -46,12 +46,12 @@ var contactFormHandler = {
 
   //Sends the Form Data to the Script
   sendFormData : function(){
-    console.log(this.formData);
-
-    this.$success.show(500);
-    setTimeout(function(){
-      contactFormHandler.$success.hide(500);
-    },7000);
+    $.post('/scripts/send-contact-data.php',formData,function(){
+      this.$success.show(500);
+      setTimeout(function(){
+        contactFormHandler.$success.hide(500);
+      },7000);
+    });
   }
 
 };
