@@ -12,11 +12,11 @@
   $arrayLength = count($mailToArray);
 
   // Construct Mail Message
-  $mailMessage = "From ".$name."\n".$email."\n".$phone."\n\n";
+  $mailMessage = "Name: ".$name."\n\nEmail: ".$email."\n\nPhone: ".$phone."\n\nMessage: ";
   $mailMessage .= $message;
 
   // Send E-Mail to each address in mailToArray
-  for ($i=0; $i < arrayLength ; $i++) {
+  for ($i=0; $i < $arrayLength ; $i++) {
     mail($mailToArray[$i], $subject, $mailMessage);
   }
  ?>
