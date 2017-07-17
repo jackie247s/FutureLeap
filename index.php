@@ -55,12 +55,8 @@
 
     <?php
       require_once 'includes/scripts.php';
+      require_once 'includes/bxslider.php';
      ?>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.12/jquery.bxslider.min.js"></script>
-    <script type="text/javascript">
-    $(document).ready(function(){
-      $('.bxslider').bxSlider();
-      });
     </script>
   </body>
 </html>
