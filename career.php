@@ -18,11 +18,11 @@
        <div class="career">
          <img id="career" src="images/career.jpg" alt="">
 
-           <form class="career-form form-horizontal">
+           <form enctype="multipart/form-data" method="POST" class="career-form form-horizontal">
              <div class="form-group">
                <label class="control-label col-md-5" for="email">Upload Your CV:</label>
                <div class="col-md-5">
-                 <input id="cv" type="file" class="" required>
+                 <input id="cv" name="cv" type="file" class="" required>
                </div>
              </div>
 
@@ -46,5 +46,12 @@
     <?php
       require_once 'includes/scripts.php';
      ?>
+     <script type="text/javascript">
+
+      $(document).ready(function(){
+
+      });
+
+     </script>
   </body>
 </html>
