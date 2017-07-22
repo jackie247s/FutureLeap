@@ -6,3 +6,19 @@
 #cv{
   padding-top: 5px;
 }
+
+#career-form-success{
+  background-color: #dff0d8;
+  border-radius: 5px;
+  padding: 3px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#career-form-failure{
+  background-color: #f2dede;
+  border-radius: 5px;
+  padding: 3px;
+  margin-bottom: 10px;
+  text-align: center;
+}
