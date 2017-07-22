@@ -15,19 +15,16 @@
     if (move_uploaded_file($filetempname, $target_file)) {
       $email = new PHPMailer();
 
+      $email->FromName = "FutureLeap Career";
       $email->Body = "CV sent by Potential Employee";
       $email->Subject   = 'FutureLeap Career';
       $email->AddAddress( 'jackie247s@gmail.com' );
 
-      $file_to_attach = 'PATH_OF_YOUR_FILE_HERE';
 
       $email->AddAttachment( $target_file , $filename );
 
       if ($email->send()) {
         $success = true;
-      }
-      else{
-        echo "Mailer Error: " . $email->ErrorInfo;
       }
 
     }
