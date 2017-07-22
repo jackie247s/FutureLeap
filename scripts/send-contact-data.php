@@ -7,7 +7,7 @@
   $message = $_POST['message'];
 
   // Settings for sending email
-  $mailToArray = array("jackie247s@gmail.com");
+  $mailToArray = array("enquiry@future-leap.com");
   $subject = "FutureLeap Enquiry";
   $arrayLength = count($mailToArray);
 
