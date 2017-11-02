@@ -1,7 +1,7 @@
 <header>
   <div class="row header-top">
     <div class="col-md-4 logo">
-      <a href="index.php"><img id="logo" src="images/logo.jpg" alt="Logo"></a>
+      <a href="index.php"><img id="logo" src="images/logo2.png" alt="Logo"></a>
     </div>
     <div class="col-md-4 slogan">
       <p>Building Your Future</p>
