@@ -18,7 +18,7 @@
       $email->FromName = "FutureLeap Career";
       $email->Body = "CV sent by Potential Employee";
       $email->Subject   = 'FutureLeap Career';
-      $email->AddAddress( 'jackie247s@gmail.com' );
+      $email->AddAddress( 'enquiry@future-leap.com' );
 
 
       $email->AddAttachment( $target_file , $filename );
