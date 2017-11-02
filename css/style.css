@@ -3,18 +3,21 @@
 @import url('divisions.css');
 @import url('career.css');
 
+/*Main Color of Website : Blue: rgb(220, 0, 0), Red: rgb(220, 0, 0);*/
+/*Color of navbar-inverse: Blue: #0F1626, Red: rgb(187, 22, 22);;*/
+
 body{
   background-color: #E0E0E0;
   font-family: 'Abel', sans-serif;
 }
 
 h2{
-  color: #032d6b;
+  color: rgb(220, 0, 0);
   font-size: 23px;
 }
 
 h3{
-  color: #032d6b;
+  color: rgb(220, 0, 0);
   font-size: 18px;
 }
 
@@ -36,8 +39,9 @@ p,li{
 }
 
 .slogan p{
-  /*border: solid #032d6b 5px;*/
-  background-color: #032d6b;
+  /*border: solid rgb(220, 0, 0) 5px;*/
+  /*background-color: rgb(220, 0, 0);*/
+  background-color: rgb(220, 0, 0);
   color: white;
   display: inline-block;
   font-size: 25px;
@@ -68,8 +72,19 @@ p,li{
 }
 
 .navbar-inverse{
-  background-color: #0F1626;
+  background-color: rgb(187, 22, 22);
+  border-color: transparent;
   border-radius: 5px 5px 0 0;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:focus,
+.navbar-inverse .navbar-nav>.open>a:hover{
+  background-color: rgb(220, 0, 0);
 }
 
 .page-center{
@@ -85,7 +100,7 @@ p,li{
 }
 
 .welcome h2{
-  color: #032d6b;
+  color: rgb(220, 0, 0);
 }
 
 .panel h2{
@@ -95,7 +110,7 @@ p,li{
 }
 
 .panel-header{
-  background-color: #032d6b;
+  background-color: rgb(220, 0, 0);
   border-radius: 5px 5px 0 0;
 }
 
@@ -104,7 +119,7 @@ p,li{
 }
 
 .news-events h2{
-  color: #032d6b;
+  color: rgb(220, 0, 0);
 }
 
 .clearfix{
